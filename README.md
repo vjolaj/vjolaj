@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Vjola!
 
+I am a full stack engineer proficient in languages such as Python, JavaScript, HTML, CSS and frameworks including React, Redux, Flask and Express. I am passionate about delivering elegant, user-intuitive products that address real needs. Coming from a biomedical research background, programming has now become my primary outlet for my persistent curiosity, problem-solving skills and creative expression!
 <!--
 **vjolaj/vjolaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
